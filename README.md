@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BigBoyZach117
 
 - 👀 I’m interested in ...
-Programming, Fitness, and learning.
+Programming, Fitness, and Learning.
 
 - 🌱 I’m currently learning ...
 C++, Computer Science, Mathematics.
