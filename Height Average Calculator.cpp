@@ -1,5 +1,5 @@
 //Zachariah Hunt
-//Lab 8B
+//Height Averaging
 //Program to compute the average of heights input by the user. 
 
 #include <iostream>
